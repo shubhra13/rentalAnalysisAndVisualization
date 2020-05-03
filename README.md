@@ -1,10 +1,10 @@
-# Unit 6 - Pythonic Monopoly
+# HTML RENDERED FROM THIS PROJECT IS IN THE DOCS FOLDER WHICH CAN BE RENDERED REMOTELY ACCESSED VIA 
 
-![San Francisco Park Reading](Images/san-francisco-park-reading.jpg)
+https://shubhra13.github.io/rentalAnalysisAndVisualization/
 
-*[San Francisco Park Reading by Juan Salamanca](https://www.pexels.com/photo/park-san-francisco-reading-61109/) | [Free License](https://www.pexels.com/photo-license/)*
 
-## Background
+
+### Project Background
 
 Harold's company has just started a new Real Estate Investment division to provide customers with a broader range of portfolio options. Harold was tasked with building a prototype dashboard and he needs your help. The real estate team wants to trial this initial offering with investment opportunities for the San Francisco market. If the new service is popular, then they can start to expand to other markets.
 
@@ -17,13 +17,6 @@ In this homework assignment, you will help Harold accomplish the following tasks
 2. [Create a dashboard of interactive visualizations to explore the market data](#Dashboard)
 
 ---
-
-## Files
-
-* [sfo_neighborhoods_census_data.csv](Starter_Code/Data/sfo_neighborhoods_census_data.csv)
-* [neighborhoods_coordinates.csv](Starter_Code/Data/neighborhoods_coordinates.csv)
-* [Rental Analysis Starter Jupyter Notebook](Starter_Code/rental_analysis.ipynb)
-* [Dashboard Starter Jupyter Notebook](Starter_Code/dashboard.ipynb)
 
 ## Instructions
 
@@ -112,13 +105,3 @@ Sample Dashboard:
   ![dashboard-demo.gif](Images/dashboard-demo.gif)
 
 - - -
-
-### Submission
-
-* Create separate notebooks for the analysis and the dashboard and upload these to Github.
-
-* Complete your README to explain how to run and use your dashboard.
-
-* Note: You should not submit your `mapbox` access token to Github!
-
-* Submit the Github URL repository to Bootcampspot.
