@@ -1,7 +1,8 @@
-# HTML RENDERED FROM THIS PROJECT IS IN THE DOCS FOLDER WHICH CAN BE RENDERED REMOTELY ACCESSED VIA 
+# HTML RENDERED FROM THIS PROJECT IS IN THE DOCS FOLDER WHICH CAN BE RENDERED REMOTELY ACCESSED VIA BELOW LINK:
 
 https://shubhra13.github.io/rentalAnalysisAndVisualization/
 
+---
 
 
 ### Project Background
@@ -10,15 +11,7 @@ Harold's company has just started a new Real Estate Investment division to provi
 
 The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.
 
-In this homework assignment, you will help Harold accomplish the following tasks:
-
-1. [Complete a notebook of rental analysis](#Rental-Analysis)
-
-2. [Create a dashboard of interactive visualizations to explore the market data](#Dashboard)
-
 ---
-
-## Instructions
 
 ### Rental Analysis
 
